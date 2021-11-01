@@ -21,4 +21,5 @@ To achieve the described purpose it uses tools such as
 5. Aave Interfaces
   - Lending Pool
   - Lending Pool Addresses Provider
-6. Python
+6. Can be tested both on a mainnet fork and on Kovan Chain
+7. Python
