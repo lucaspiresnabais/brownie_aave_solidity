@@ -9,17 +9,17 @@ It follows these high level steps:
 
 To achieve the described purpose it uses tools such as
 
-1. Brownie
+1. **Brownie**
   - Interfaces
   - Configs
   - Networks
   - Accounts 
-2. ChainLink Interfaces
+2. **ChainLink Interfaces**
   - AggregatorV3
-3. ERC20 Interface
-4. Weth Interface
-5. Aave Interfaces
+3. **ERC20 Interface**
+4. **Weth Interface**
+5. **Aave Interfaces**
   - Lending Pool
   - Lending Pool Addresses Provider
-6. Can be tested both on a mainnet fork and on Kovan Chain
-7. Python
+6. Can be tested both on a **mainnet fork** and on **Kovan Testnet**
+7. **Python**
